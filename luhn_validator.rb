@@ -1,3 +1,4 @@
+# luhn algorithm model to validate credit card
 module LuhnValidator
   # Validates credit card number using Luhn Algorithm
   # arguments: none
